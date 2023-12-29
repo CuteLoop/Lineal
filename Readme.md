@@ -1,4 +1,4 @@
-## Curso de ÁLgebra Lineal
+## Curso de Álgebra Lineal
 
 
 Estas es un curso de álgebra lineal basado principalmente en las notas de álgebra lineal la profesora Vicky Neale. sus notas  y las conferencias que las acompañan, se basan en aquellas creadas por el Dr. Peter Neumann,
