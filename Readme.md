@@ -1,5 +1,6 @@
 # Curso de Álgebra Lineal
 
+Este es un curso de Álgebra lineal que preparo para estudiantes de ingeniería, quienes asistirán a clase 5 horas a la semana durante 16 semanas.
 
 Estas es un curso de álgebra lineal basado principalmente en las notas de álgebra lineal la profesora Vicky Neale. sus notas  y las conferencias que las acompañan, se basan en aquellas creadas por el Dr. Peter Neumann,
 las cuales a su vez se basaron en notas de profesores anteriores. Lo mismo aplica para las hojas de problemas.
