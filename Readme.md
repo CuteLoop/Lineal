@@ -10,12 +10,12 @@ Claro, aquí está la tabla de contenido en formato Markdown:
 # Contenido
 
 ## 1. Números complejos
-   1.1 Definición y origen de los números complejos
-   1.2 Operaciones fundamentales con números complejos
-   1.3 Potencias de “i”, módulo o valor absoluto de un número complejo
-   1.4 Forma polar y exponencial de un número complejo
-   1.5 Teorema de De Moivre, potencias y extracción de raíces de un número complejo
-   1.6 Ecuaciones polinómicas
+   1.1. Definición y origen de los números complejos
+   1.2. Operaciones fundamentales con números complejos
+   1.3. Potencias de “i”, módulo o valor absoluto de un número complejo
+   1.4. Forma polar y exponencial de un número complejo
+   1.5. Teorema de De Moivre, potencias y extracción de raíces de un número complejo
+   1.6. Ecuaciones polinómicas
 
 ## 2. Matrices y determinantes
    2.1 Definición de matriz, notación y orden
